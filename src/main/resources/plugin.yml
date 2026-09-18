@@ -1,0 +1,8 @@
+name: LavaWorld
+version: 1.0
+main: com.leeru.lavaworld.LavaWorldPlugin
+api-version: "1.21"
+commands:
+  멸망:
+    description: 1.21.4 지상 전용 용암 비 명령어
+    permission: lavaworld.admin
